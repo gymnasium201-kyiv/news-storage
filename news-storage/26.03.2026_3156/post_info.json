@@ -6,7 +6,9 @@
     ],
     "post_videos": [],
     "main_image": "main_image.jpg",
-    "post_images": [],
+    "post_images": [
+        "post_image_1.jpg"
+    ],
     "post_documents": [
         "Наказ Про прийом до 1-х класів у 2026 році.pdf"
     ]
